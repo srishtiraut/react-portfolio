@@ -1,0 +1,34 @@
+[
+    {
+      "role": "Project Engineer II",
+      "organisation": "Applus IDIADA",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on the template automatization product for IDIADA proprietary software used in 30+ countries for homologation of vehicles and automobile components based on UN and EU regulations."," Created core Javascript frontend structures for rendering robust and scalable user interfaces according to regulation requirements implemented by last mile homologation engineers facilitating errorless data storage cum manipulation."," Automatized the report generation process for ministry certifications for vehicle testing ensuring homogeneity and efficiency resulting in the reduction of delivery time by 60 percent."
+      ],
+      "imageSrc": "history/idiadaLogoOrangeBg.jpg"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Infinite Computer Solutions (previously Fiserv)",
+      "startDate": "Aug, 2022",
+      "endDate": "Dec, 2023",
+      "experiences": ["Contributed as a Salesforce Developer, writing clean code for building robust and scalable Lightning Web Components(LWC), Aura components, batch classes, SOQL/SOSL queries, Apex classes and triggers as per business requirements.",
+       "Enhanced project efficiency by deploying and strategically optimizing flows, validation rules, workflow rules, process builder, page layouts, record types, user roles, profiles and systems integration via Salesforce REST Web Services.",
+       "Configured components to generate varied graphic reports and dashboards for dynamic visualization of data & results."
+      ],
+      "imageSrc": "history/infinite.jpg"
+    },
+    {
+      "role": "Web Development Intern",
+      "organisation": "CariKture India Pvt Ltd",
+      "startDate": "June, 2021",
+      "endDate": "Sept, 2021",
+      "experiences": [" Implemented the frontend of a web-based travel application for 18+ foreign and Indian cities using HTML, CSS, JS, jQuery, DOM Manipulation, Bootstrap, Google workspace and Filezilla for server upload",
+      "Supervised 5+ other incoming interns while creating an e-commerce website’s login page, interactive admin dashboard, and a restaurant inventory management system including cart, order taking, and menu viewing features.",
+      "Formulated engaging content as per Search Engine Optimization(SEO) standards to boost Google search rankings."
+      ],
+      "imageSrc": "history/cariktureLogo.jpg"
+    }
+  ]
+  
